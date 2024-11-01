@@ -1,1 +1,1 @@
-# 35-React-Redux-e-Ticaret
+# 35-React-Redux-e-Commerce
